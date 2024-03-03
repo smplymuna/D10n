@@ -1,5 +1,3 @@
-# D10n
-Gm to those who Gm
 # https://tea.xyz/what-is-this-file
 ---
 version: 1.0.0
